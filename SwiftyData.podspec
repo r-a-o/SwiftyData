@@ -4,7 +4,7 @@ spec.version = "0.1.1"
 spec.summary = "Simple CoreData wrapper for Swift iOS projects"
 spec.homepage = "https://github.com/aonawale/SwiftyData"
 spec.license = { type: 'MIT', file: 'LICENSE.md' }
-spec.swift_version = '3.0'
+spec.swift_version = '4.0'
 spec.authors = { "Ahmed Onawale" => 'ahmedonawale@gmail.com' }
 spec.social_media_url = "http://twitter.com/ahmedonawale"
 spec.ios.deployment_target = '8.0'
